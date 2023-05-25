@@ -1,5 +1,5 @@
 # Heart Disease Prediction Using Machine Learning Model
->The aim of this project is to predict heart disease using machine learning algorithms.This project implements 3 classificiation models using scikit-learn: Logistic Regression, Random Forest and K-Nearest Neighbour to investigate their performance on heart disease datasets obtained from the Cleveland Heart Disease(UCI Repository) dataset.
+The objective of this project is to utilize machine learning algorithms to predict the occurrence of heart disease. Three classification models, namely Logistic Regression, Random Forest, and K-Nearest Neighbors, are implemented using scikit-learn. The performance of these models is evaluated using heart disease datasets obtained from the Cleveland Heart Disease dataset available in the UCI Repository. The project dataset is stored in the Heart Disease .csv file, and to explore the project, you can run the Heart Disease Prediction.ipynb file in Python.
 
 
 
